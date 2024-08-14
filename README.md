@@ -1,2 +1,2 @@
 # Leetcode_Elixir
- A repository for Leetcode problems in Elixir
+ A repository for solved Leetcode problems in Elixir
